@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextDetector</string>
+    <string name="snapBtn_txt">Snap</string>
+    <string name="detectBtn_txt">Detect</string>
 </resources>
